@@ -350,6 +350,7 @@ class Tools extends BaseRoot {
       }
       const extraMinutes = 1 * 60;
       await this.countdown(this.waitingTime + extraMinutes);
+      this.waitingTime = 0;
     }
   }
 }

@@ -1,4 +1,4 @@
-![DuckChain banner](https://file.coinexstatic.com/2024-09-09/34B45FA778862DCC98C70BB93F577727.png)
+![DuckChain banner](https://pbs.twimg.com/media/GVvkqcTa8AIebVG.jpg:large)
 
 # Tool auto DuckChain Bot by NguyenDuc
 
